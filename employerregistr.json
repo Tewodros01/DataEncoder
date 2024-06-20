@@ -1,0 +1,14 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "username": "johndoe",
+  "email": "john.doe@example.com",
+  "password": "12@#123Teddy___!2",
+  "confirm_password": "12@#123Teddy___!2",
+  "phone": "940805426",
+  "organization_name": "Example Company",
+  "sectors": [
+    "Accounting, Finance, and Insurance",
+    "Administrative and Secretarial"
+  ]
+}
